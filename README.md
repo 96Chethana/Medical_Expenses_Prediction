@@ -7,4 +7,7 @@ PREDICT THE FUTURE MEDICAL EXPENSES OF PATIENTS USING LINEAR REGRESSION, RANDOM 
    - Body Mass Index
    - Region
    - Smoking Behaviour	
+   
+- [x]  Univariate Analysis
+
 
