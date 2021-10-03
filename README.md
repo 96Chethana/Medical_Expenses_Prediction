@@ -16,3 +16,4 @@
 - [x]  Bivariate Analysis
   + One of the most basic types of quantitative analysis is Bivariate analysis.
   + It entails analyzing two variables in order to determine their empirical relationship.
+  + It can be useful for testing simple association hypotheses.
