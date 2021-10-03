@@ -12,4 +12,7 @@
   - Only one variable is involved. 
   - It's used to figure out how the variables in the dataset are distributed and to extract useful data from them.
   - It can be used to examine both numerical and categorical variable distributions.
-
+  
+- [x]  Bivariate Analysis
+  + One of the most basic types of quantitative analysis is Bivariate analysis.
+  + It entails analyzing two variables in order to determine their empirical relationship.
