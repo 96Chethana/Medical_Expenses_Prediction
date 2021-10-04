@@ -24,8 +24,8 @@
   + It helps in the normalization of data within a particular range.
   + It also helps in the speeding of algorithmic calculations.
   
-  - [x] Linear Regression
-    + A linear approach to modeling the relationship between a dependent and one or more independent variables is known as linear regression.
-    + The dependent and independent variables must have a linear relationship. 
-    + Two variables must have trend lines that are either increasing or decreasing.
-    + In statistical terminology, all variables must have the same variance.
+- [x] Linear Regression
+  + A linear approach to modeling the relationship between a dependent and one or more independent variables is known as linear regression.
+  + The dependent and independent variables must have a linear relationship. 
+  + Two variables must have trend lines that are either increasing or decreasing.
+  + In statistical terminology, all variables must have the same variance.
